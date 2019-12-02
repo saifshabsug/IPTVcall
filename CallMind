@@ -15,7 +15,7 @@ http://iptv.am000.tv:8000/omar0267/jYkbMn9xm8/150
 http://iptv.am000.tv:8000/omar0267/jYkbMn9xm8/357
 #EXTINF:-1,Fajer
 http://iptv.am000.tv:8000/omar0267/jYkbMn9xm8/2829
- XTINF:-1,Fajer HD
+#EXTINF:-1,Fajer HD
 http://vstream2.hadara.ps:8081/AlfajertvHDFull_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE5IDc6NDk6MDUgUE0maGFzaF92YWx1ZT15YVdtbjBsVk9ZemFia0wwVVBrWlZ3PT0mdmFsaWRtaW51dGVzPTE4MCZpZD1kYjk0N2ZmYjgyMmQ2MjJiOTQ1YzI4ZjhlZTZkMzY2Zg==
 #EXTINF:-1,Ajyal-TV
 http://iptv.am000.tv:8000/omar0267/jYkbMn9xm8/2636
